@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guttikondajitendra/RestSearch/static/css/main.1c9c0e26.chunk.css",
+    "main.js": "/guttikondajitendra/RestSearch/static/js/main.5e4f915b.chunk.js",
+    "main.js.map": "/guttikondajitendra/RestSearch/static/js/main.5e4f915b.chunk.js.map",
+    "runtime-main.js": "/guttikondajitendra/RestSearch/static/js/runtime-main.7e9fe4ed.js",
+    "runtime-main.js.map": "/guttikondajitendra/RestSearch/static/js/runtime-main.7e9fe4ed.js.map",
+    "static/js/2.32cf23d4.chunk.js": "/guttikondajitendra/RestSearch/static/js/2.32cf23d4.chunk.js",
+    "static/js/2.32cf23d4.chunk.js.map": "/guttikondajitendra/RestSearch/static/js/2.32cf23d4.chunk.js.map",
+    "index.html": "/guttikondajitendra/RestSearch/index.html",
+    "precache-manifest.fa35a19797ca7773a2e3652856abdaec.js": "/guttikondajitendra/RestSearch/precache-manifest.fa35a19797ca7773a2e3652856abdaec.js",
+    "service-worker.js": "/guttikondajitendra/RestSearch/service-worker.js",
+    "static/css/main.1c9c0e26.chunk.css.map": "/guttikondajitendra/RestSearch/static/css/main.1c9c0e26.chunk.css.map",
+    "static/js/2.32cf23d4.chunk.js.LICENSE.txt": "/guttikondajitendra/RestSearch/static/js/2.32cf23d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e9fe4ed.js",
+    "static/js/2.32cf23d4.chunk.js",
+    "static/css/main.1c9c0e26.chunk.css",
+    "static/js/main.5e4f915b.chunk.js"
+  ]
+}
