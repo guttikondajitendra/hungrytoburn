@@ -15,9 +15,11 @@ A).Identify issues by performing a full code review of each app ,inefficent code
 
 
 4.	How would you improve the API that you just used?
+
 A). Increased System status visbiltiy helps to improve the API , need to improve the information helps to understand people who use to invoke the api.
 Include to give better viewbility of the page. Include information about distance from my location to the restaurants. reviews about the restauratns and specify what the restuarant is best for.
 
 5.	Please describe yourself using JSON.
+
 A). JSON  is Faster and syntax is very easy to use  which helps to parsing the data and exucte the data in faster way. It is compatibile with wide range of browsers and os made with JSON require less effort to make it compatabile with browser. In my view i need to verify the app on differetn browsers but it gives the functionality.It sotres data in the array whick makes it superior for web APIs
 
