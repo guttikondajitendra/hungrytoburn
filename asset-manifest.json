@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hungrytoburn/static/css/main.1c9c0e26.chunk.css",
+    "main.js": "/hungrytoburn/static/js/main.71425222.chunk.js",
+    "main.js.map": "/hungrytoburn/static/js/main.71425222.chunk.js.map",
+    "runtime-main.js": "/hungrytoburn/static/js/runtime-main.32354610.js",
+    "runtime-main.js.map": "/hungrytoburn/static/js/runtime-main.32354610.js.map",
+    "static/js/2.720d9380.chunk.js": "/hungrytoburn/static/js/2.720d9380.chunk.js",
+    "static/js/2.720d9380.chunk.js.map": "/hungrytoburn/static/js/2.720d9380.chunk.js.map",
+    "index.html": "/hungrytoburn/index.html",
+    "precache-manifest.9a4cc15e395f8b52a93259b48a71e451.js": "/hungrytoburn/precache-manifest.9a4cc15e395f8b52a93259b48a71e451.js",
+    "service-worker.js": "/hungrytoburn/service-worker.js",
+    "static/css/main.1c9c0e26.chunk.css.map": "/hungrytoburn/static/css/main.1c9c0e26.chunk.css.map",
+    "static/js/2.720d9380.chunk.js.LICENSE.txt": "/hungrytoburn/static/js/2.720d9380.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32354610.js",
+    "static/js/2.720d9380.chunk.js",
+    "static/css/main.1c9c0e26.chunk.css",
+    "static/js/main.71425222.chunk.js"
+  ]
+}
