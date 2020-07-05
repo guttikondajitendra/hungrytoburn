@@ -1,13 +1,23 @@
 1.	How long did you spend on the coding assignment? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
 
-Answer) I spend around 22 hours on this assignment  to resolve bug fixes and many more . I need to work on SEO more to ake it visible and i dont have experiecne in WCAG so i will try to make more accessible . I will do some more styling for the cards.
+A). I spend around 22 hours on this assignment  to resolve bug fixes and many more . I need to work on SEO more to ake it visible and i dont have experiecne in WCAG so i will try to make more accessible . I will do some more styling for the cards.
 
 2.	What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+
 A). I think Redux is the most useful featrue i enjoyed writing code with redux because it sepearates Presentational components with container components which hels to reduce coding and resue the components.
 
 
 
 3.	How would you track down a performance issue in production? Have you ever had to do this?
+
+A).Identify issues by performing a full code review of each app ,inefficent code to be identified in initail stages it take too much memory and cpu resources and make the application too big which makes minor issurs to be the biggest issues in application. personally i done it once  with my code when i am working on my last project.
+
+
+
 4.	How would you improve the API that you just used?
+A). Increased System status visbiltiy helps to improve the API , need to improve the information helps to understand people who use to invoke the api.
+Include to give better viewbility of the page. Include information about distance from my location to the restaurants. reviews about the restauratns and specify what the restuarant is best for.
+
 5.	Please describe yourself using JSON.
+A). JSON  is Faster and syntax is very easy to use  which helps to parsing the data and exucte the data in faster way. It is compatibile with wide range of browsers and os made with JSON require less effort to make it compatabile with browser. In my view i need to verify the app on differetn browsers but it gives the functionality.It sotres data in the array whick makes it superior for web APIs
 
