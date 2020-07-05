@@ -8,6 +8,35 @@ A). I think Redux is the most useful featrue i enjoyed writing code with redux b
 
 
 
+code :
+
+
+#import {
+    FETCH_DATA_BEGIN,
+    FETCH_DATA_SUCCESS,
+    FETCH_DATA_FAILURE,
+    ADD_REFINE_DATA
+  } from '../actions/Actions';
+  
+  const initialState = {
+    restaurants: [],
+    refine: '',
+    city: '',
+    total_items: 0,
+    loading: false,
+    error: null
+  };
+  
+  const restaurantReducer = (state = initialState, action) => {
+    switch (action.type) {
+       case FETCH_DATA_BEGIN:
+        return {
+          ...state,
+          loading: true,
+          error: null
+        };
+  
+    
 3.	How would you track down a performance issue in production? Have you ever had to do this?
 
 A).Identify issues by performing a full code review of each app ,inefficent code to be identified in initail stages it take too much memory and cpu resources and make the application too big which makes minor issurs to be the biggest issues in application. personally i done it once  with my code when i am working on my last project.
