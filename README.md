@@ -70,9 +70,6 @@ A). This is mine
     "Gaming",
     "Music"
   ],
-  "dreams": [
-    "To make myself more comfortable to achieve what i need!"
-  ],
   "believes": [
     "Work hard think smart Enjoy life to the fullest"
   ]
