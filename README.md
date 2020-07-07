@@ -57,7 +57,7 @@ A). This is mine 🙂
   "Email": "jitendraguttikonda@gmail.com"
   "age": 25,
   "nationality": "INDIAN",
-  "livesin": "Tronto",
+  "livesin": "Toronto",
   "Git profile":https://github.com/guttikondajitendra
   "passions": [
     "Programming",
