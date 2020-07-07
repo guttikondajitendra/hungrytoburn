@@ -56,7 +56,6 @@ A). This is mine
   "lastname": "Guttikonda",
   "Email": "jitendraguttikonda@gmail.com"
   "age": 25,
-  "nationality": "INDIAN",
   "livesin": "Toronto",
   "Git profile":https://github.com/guttikondajitendra
   "passions": [
