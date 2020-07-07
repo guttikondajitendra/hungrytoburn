@@ -55,8 +55,7 @@ A). This is mine
 "name": "Jitendra", 
 "lastname": "Guttikonda",
 "Email": "jitendraguttikonda@gmail.com" ,
-"age": 25, 
-"nationality": "INDIAN", 
+"age": 25,
 "livesin": "Toronto",
 "Province": "Ontario"
 "Git profile":https://github.com/guttikondajitendra ,
