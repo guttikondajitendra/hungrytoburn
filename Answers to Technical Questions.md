@@ -50,6 +50,32 @@ Include to give better viewbility of the page. Include information about distanc
 
 5.	Please describe yourself using JSON.
 
-A). This is mine  { "name": "Jitendra", "lastname": "Guttikonda", "Email": "jitendraguttikonda@gmail.com" "age": 25, "nationality": "INDIAN", "livesin": "Tronto", "Git profile":https://github.com/guttikondajitendra "passions": [ "Programming", "Networking", "Debugging" ], "interests": [ "Movies", "Learning NewTechnologies", "Gaming", "Music" ], "dreams": [ "To make myself more comfortable to achieve what i need!" ], "believes": [ "Work hard think smart Enjoy life to the fullest" ] }
+A). This is mine 
+{ 
+"name": "Jitendra", 
+"lastname": "Guttikonda",
+"Email": "jitendraguttikonda@gmail.com" ,
+"age": 25, 
+"nationality": "INDIAN", 
+"livesin": "Tronto",
+"Province": "Ontario"
+"Git profile":https://github.com/guttikondajitendra ,
+"phone Number": 519-933-8954,
+
+"passions": [
+"Hackathon",
+"Networking",
+"Debugging" 
+],
+
+"interests": [
+"Movies", 
+"Learning N
+"Gaming",
+"Music"
+],
+
+"believes": [ "Work hard think smart Enjoy life to the fullest" ] 
+}
 
 
