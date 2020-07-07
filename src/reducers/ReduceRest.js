@@ -25,7 +25,7 @@ import {
   
       case FETCH_DATA_SUCCESS:
         return {
-          ...state,
+          ...state,  /* object spread or  another way of doing it is object.assign() */
           loading: false,
           restaurants: action.payload.result.restaurants,
           total_items: action.payload.result.total_entries,
