@@ -50,7 +50,7 @@ Include to give better viewbility of the page. Include information about distanc
 
 5.	Please describe yourself using JSON.
 
-A). This is mine 🙂
+A). This is mine 
 {
   "name": "Jitendra",
   "lastname": "Guttikonda",
