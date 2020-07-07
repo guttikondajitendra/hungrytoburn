@@ -50,6 +50,6 @@ Include to give better viewbility of the page. Include information about distanc
 
 5.	Please describe yourself using JSON.
 
-A). JSON  is Faster and syntax is very easy to use  which helps to parsing the data and exucte the data in faster way. It is compatibile with wide range of browsers and os made with JSON require less effort to make it compatabile with browser. In my view i need to verify the app on differetn browsers but it gives the functionality.It sotres data in the array whick makes it superior for web APIs
+A). This is mine  { "name": "Jitendra", "lastname": "Guttikonda", "Email": "jitendraguttikonda@gmail.com" "age": 25, "nationality": "INDIAN", "livesin": "Tronto", "Git profile":https://github.com/guttikondajitendra "passions": [ "Programming", "Networking", "Debugging" ], "interests": [ "Movies", "Learning NewTechnologies", "Gaming", "Music" ], "dreams": [ "To make myself more comfortable to achieve what i need!" ], "believes": [ "Work hard think smart Enjoy life to the fullest" ] }
 
 
